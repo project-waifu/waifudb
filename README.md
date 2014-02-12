@@ -1,2 +1,1 @@
-Project WaifuDB (name not final) will be an online website where users will be able to download “assets” on Waifu’s, meaning, if the user has a waifusim client he can just choose a waifu from a list and the waifusim client will download pictures, sounds, animations, etc. 
-Using a site like this might make having a desktop mascot waifu easy to set up and manage.
+edit
