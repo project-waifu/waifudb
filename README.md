@@ -7,20 +7,16 @@ We will also create the waifusim client, but right now it's only a concept and d
 http://projectwaifu.com/
 
 ###Githubs and Trello
-https://trello.com/projectwaifudb</br>
-https://github.com/hrkx/waifudb</br>
-https://github.com/darkfeline/iona  </br>
-
-###Other Links
-http://pastebin.com/gKUFWMZc  AI/Language/Books Pastebin</br>
-http://awwapp.com/draw.html#6a6160ab Drawing board
+https://trello.com/projectwaifudb 
+https://github.com/darkfeline/iona 
+https://github.com/hrkx/waifudb 
 
 Members:
 
-* bryciemicie <projectwaifu@gmail.com> <Project Manager></br>
-* Bakaboykie <bakaboykie@gmail.com> <Database Designer></br>
-* satiricon <david.satiricon@gmail.com> <Web Developer></br>
-* Otsdarva <morgan.adam.oliver@gmail.com> <Client/AI></br>
+* bryciemicie <projectwaifu@gmail.com> <Project Manager>
+* Bakaboykie <bakaboykie@gmail.com> <Database Designer>
+* satiricon <david.satiricon@gmail.com> <Web Developer>
+* Otsdarva <morgan.adam.oliver@gmail.com> <Client/AI>
 * ribsdibs <Client/AI>
 
 *Feel free to mail ideas and/or feedback. Please refrain from sending "WHEN IS IT DONE" and such, because we are still planning things right now.*
