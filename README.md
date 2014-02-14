@@ -17,6 +17,6 @@ Members:
 * Bakaboykie <bakaboykie@gmail.com> <Database Designer>
 * satiricon <david.satiricon@gmail.com> <Web Developer>
 * Otsdarva <morgan.adam.oliver@gmail.com> <Client/AI>
-* ribsdibs <Client/AI>
+* ribsdibs <deribadib@gmail.com> <Client/AI>
 
 *Feel free to mail ideas and/or feedback. Please refrain from sending "WHEN IS IT DONE" and such, because we are still planning things right now.*
