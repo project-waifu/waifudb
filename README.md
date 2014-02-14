@@ -7,9 +7,9 @@ We will also create the waifusim client, but right now it's only a concept and d
 http://projectwaifu.com/
 
 ###Githubs and Trello
-https://trello.com/projectwaifudb 
-https://github.com/darkfeline/iona 
-https://github.com/hrkx/waifudb 
+https://trello.com/projectwaifudb	
+https://github.com/darkfeline/iona	
+https://github.com/hrkx/waifudb		
 
 Members:
 
